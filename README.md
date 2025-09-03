@@ -1,4 +1,4 @@
 # pizza-sales-sql-project
 
 
-![portfolio dashboard](https://github.com/Govind418/weather-report/blob/b922df9f213bff973c3556e4be38a668e874b34c/Screenshot%202025-09-01%20073325.png)
+![portfolio dashboard](https://github.com/Govind418/pizza-sales-sql-project/blob/0fc3622203fdeab7337e3602a679dd71b3552b91/pizza%20sales%20ppt.pdf)
